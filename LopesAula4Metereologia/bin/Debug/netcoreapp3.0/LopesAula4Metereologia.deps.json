@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "LopesAula4Metereologia/1.0.0": {
+        "runtime": {
+          "LopesAula4Metereologia.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LopesAula4Metereologia/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

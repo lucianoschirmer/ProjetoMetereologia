@@ -1,0 +1,11 @@
+C:\Users\Luciano\source\repos\LopesAula4Metereologia\LopesAula4Metereologia\bin\Debug\netcoreapp3.0\LopesAula4Metereologia.exe
+C:\Users\Luciano\source\repos\LopesAula4Metereologia\LopesAula4Metereologia\bin\Debug\netcoreapp3.0\LopesAula4Metereologia.deps.json
+C:\Users\Luciano\source\repos\LopesAula4Metereologia\LopesAula4Metereologia\bin\Debug\netcoreapp3.0\LopesAula4Metereologia.runtimeconfig.json
+C:\Users\Luciano\source\repos\LopesAula4Metereologia\LopesAula4Metereologia\bin\Debug\netcoreapp3.0\LopesAula4Metereologia.runtimeconfig.dev.json
+C:\Users\Luciano\source\repos\LopesAula4Metereologia\LopesAula4Metereologia\bin\Debug\netcoreapp3.0\LopesAula4Metereologia.dll
+C:\Users\Luciano\source\repos\LopesAula4Metereologia\LopesAula4Metereologia\bin\Debug\netcoreapp3.0\LopesAula4Metereologia.pdb
+C:\Users\Luciano\source\repos\LopesAula4Metereologia\LopesAula4Metereologia\obj\Debug\netcoreapp3.0\LopesAula4Metereologia.csprojAssemblyReference.cache
+C:\Users\Luciano\source\repos\LopesAula4Metereologia\LopesAula4Metereologia\obj\Debug\netcoreapp3.0\LopesAula4Metereologia.AssemblyInfoInputs.cache
+C:\Users\Luciano\source\repos\LopesAula4Metereologia\LopesAula4Metereologia\obj\Debug\netcoreapp3.0\LopesAula4Metereologia.AssemblyInfo.cs
+C:\Users\Luciano\source\repos\LopesAula4Metereologia\LopesAula4Metereologia\obj\Debug\netcoreapp3.0\LopesAula4Metereologia.dll
+C:\Users\Luciano\source\repos\LopesAula4Metereologia\LopesAula4Metereologia\obj\Debug\netcoreapp3.0\LopesAula4Metereologia.pdb
